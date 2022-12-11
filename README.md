@@ -48,6 +48,8 @@ Remove the nodes of graph G based on the fraction of removed nodes p and the spe
 ### generate_method()
 Generate the property method values of five attacking protocols (Random, Largest Degree, Highest Betweennes, Articulation Points, Collective Influence).
 
+Except FLN: Our FLN method only has three attacking protocols (Random, Largest Degree, Highest Betweennes).
+
 ### plot_graph()
 Plot the fraction of removed nodes vs. property method value graph based on setting.
 
