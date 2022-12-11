@@ -18,4 +18,4 @@ for line in data['lines']:
 
 G.remove_nodes_from(list(nx.isolates(G)))
 	
-nx.write_graphml(G, "M2_London.graphml")
+nx.write_graphml(G, "M3_London.graphml")

@@ -339,7 +339,7 @@ def plot_graph(p_list, e_list_random, e_list_degree, e_list_betweenness, e_list_
 
 
 
-cities = ["M2_Shanghai.graphml", "M2_NYC.graphml", "M2_London.graphml", "M2_Chicago.graphml"]
+cities = ["M3_Shanghai.graphml", "M3_NYC.graphml", "M3_London.graphml", "M3_Chicago.graphml"]
 
 G = nx.read_graphml(cities[3])
 
