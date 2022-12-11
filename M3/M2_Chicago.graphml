@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Pulaski-Midway " />
+    <node id="Kedzie-Midway " />
+    <node id="Belmont-O'Hare " />
+    <node id="Logan Square " />
+    <node id="Kedzie-Homan " />
+    <node id="Western-Congress " />
+    <node id="Subway Portal B " />
+    <node id="North/Clybourn " />
+    <node id="Division/Milwaukee " />
+    <node id="Chicago/Milwaukee " />
+    <node id="Belmont-North Main " />
+    <node id="Wellington " />
+    <node id="Irving Park-Ravenswood " />
+    <node id="Addison-Ravenswood " />
+    <node id="Jarvis " />
+    <node id="Morse " />
+    <node id="UIC-Halsted " />
+    <node id="Clinton-Congress " />
+    <node id="Jackson/State " />
+    <node id="Harrison " />
+    <node id="Chicago/Franklin " />
+    <node id="Merchandise Mart " />
+    <node id="Clark/Lake " />
+    <node id="State/Lake " />
+    <node id="79th " />
+    <node id="69th " />
+    <node id="43rd " />
+    <node id="Indiana " />
+    <node id="Laramie " />
+    <node id="Cicero-Lake " />
+    <node id="Pulaski-Douglas " />
+    <node id="Central Park " />
+    <node id="Kimball " />
+    <node id="Kedzie-Ravenswood " />
+    <node id="Cicero-Congress " />
+    <node id="Pulaski-Congress " />
+    <node id="Ashland-Midway " />
+    <node id="Halsted-Midway " />
+    <node id="Bryn Mawr " />
+    <node id="Berwyn " />
+    <node id="Sedgwick " />
+    <node id="O'Hare Airport " />
+    <node id="Subway Portal A " />
+    <node id="Midway Airport " />
+    <node id="Irving Park-O'Hare " />
+    <node id="Addison-O'Hare " />
+    <node id="Addison-North Main " />
+    <node id="Clark Junction " />
+    <node id="Western-Midway " />
+    <node id="Western-Ravenswood " />
+    <node id="Damen-Ravenswood " />
+    <node id="Ashland-Lake " />
+    <node id="Morgan " />
+    <node id="Montrose-Ravenswood " />
+    <node id="Garfield-Dan Ryan " />
+    <node id="47th-Dan Ryan " />
+    <node id="Quincy/Wells " />
+    <node id="Washington/Wells " />
+    <node id="Tower 18 " />
+    <node id="Grand/State " />
+    <node id="Lake/State " />
+    <node id="Clark/Division " />
+    <node id="Racine " />
+    <node id="Kedzie-Douglas " />
+    <node id="California-Douglas " />
+    <node id="California-Lake " />
+    <node id="Paulina Junction " />
+    <node id="Rockwell " />
+    <node id="18th " />
+    <node id="Polk " />
+    <node id="Wilson " />
+    <node id="Sheridan " />
+    <node id="Halsted/63rd " />
+    <node id="59th Junction " />
+    <node id="Library " />
+    <node id="LaSalle/Van Buren " />
+    <node id="Roosevelt/Wabash " />
+    <node id="Tower 12 " />
+    <node id="Clinton-Lake " />
+    <node id="Oak Park-Congress " />
+    <node id="Austin-Congress " />
+    <node id="Harlem-Lake " />
+    <node id="Oak Park-Lake " />
+    <node id="Harlem-O'Hare " />
+    <node id="Jefferson Park " />
+    <node id="54/Cermak " />
+    <node id="Cicero-Douglas " />
+    <node id="Montrose-O'Hare " />
+    <node id="Illinois Medical District " />
+    <node id="Western/Milwaukee " />
+    <node id="Damen/Milwaukee " />
+    <node id="Cermak-Chinatown " />
+    <node id="Roosevelt/State " />
+    <node id="Grand/Milwaukee " />
+    <node id="Paulina " />
+    <node id="Southport " />
+    <node id="Diversey " />
+    <node id="Fullerton " />
+    <node id="Thorndale " />
+    <node id="Howard " />
+    <node id="Jackson/Dearborn " />
+    <node id="LaSalle " />
+    <node id="Chicago/State " />
+    <node id="Garfield-South Elevated " />
+    <node id="51st " />
+    <node id="Ridgeland " />
+    <node id="Austin-Lake " />
+    <node id="Central-Lake " />
+    <node id="Kostner " />
+    <node id="Pulaski-Lake " />
+    <node id="Conservatory-Central Park " />
+    <node id="Western-Douglas " />
+    <node id="Damen " />
+    <node id="California/Milwaukee " />
+    <node id="Main " />
+    <node id="South Blvd. " />
+    <node id="Linden " />
+    <node id="Central-Evanston " />
+    <node id="Noyes " />
+    <node id="Foster " />
+    <node id="Lawrence " />
+    <node id="17th Junction " />
+    <node id="Armitage " />
+    <node id="Cottage Grove " />
+    <node id="King Drive " />
+    <node id="Cermak-McCormick Place " />
+    <node id="Cumberland " />
+    <node id="Harlem-Congress " />
+    <node id="Kedzie-Lake " />
+    <node id="35th/Archer " />
+    <node id="Francisco " />
+    <node id="Ashland/63rd " />
+    <node id="Argyle " />
+    <node id="63rd-Dan Ryan " />
+    <node id="Rosemont " />
+    <node id="Forest Park " />
+    <node id="Dempster " />
+    <node id="Loyola " />
+    <node id="Granville " />
+    <node id="Monroe/Dearborn " />
+    <node id="Monroe/State " />
+    <node id="47th-South Elevated " />
+    <node id="Dempster-Skokie " />
+    <node id="Oakton-Skokie " />
+    <node id="Davis " />
+    <node id="Loomis Junction " />
+    <node id="Sox-35th-Dan Ryan " />
+    <node id="Washington/Dearborn " />
+    <node id="Washington/Wabash " />
+    <node id="87th " />
+    <node id="95/Dan Ryan " />
+    <node id="35-Bronzeville-IIT " />
+    <node id="Adams/Wabash " />
+    <edge id="0" source="Pulaski-Midway " target="Kedzie-Midway " />
+    <edge id="0" source="Pulaski-Midway " target="Midway Airport " />
+    <edge id="0" source="Kedzie-Midway " target="Western-Midway " />
+    <edge id="0" source="Belmont-O'Hare " target="Logan Square " />
+    <edge id="0" source="Belmont-O'Hare " target="Addison-O'Hare " />
+    <edge id="0" source="Logan Square " target="California/Milwaukee " />
+    <edge id="0" source="Kedzie-Homan " target="Western-Congress " />
+    <edge id="0" source="Kedzie-Homan " target="Pulaski-Congress " />
+    <edge id="0" source="Western-Congress " target="Illinois Medical District " />
+    <edge id="0" source="Subway Portal B " target="North/Clybourn " />
+    <edge id="0" source="Subway Portal B " target="Sedgwick " />
+    <edge id="0" source="Subway Portal B " target="Armitage " />
+    <edge id="0" source="North/Clybourn " target="Clark/Division " />
+    <edge id="0" source="Division/Milwaukee " target="Chicago/Milwaukee " />
+    <edge id="0" source="Division/Milwaukee " target="Damen/Milwaukee " />
+    <edge id="0" source="Chicago/Milwaukee " target="Grand/Milwaukee " />
+    <edge id="0" source="Belmont-North Main " target="Wellington " />
+    <edge id="0" source="Belmont-North Main " target="Clark Junction " />
+    <edge id="0" source="Wellington " target="Diversey " />
+    <edge id="0" source="Irving Park-Ravenswood " target="Addison-Ravenswood " />
+    <edge id="0" source="Irving Park-Ravenswood " target="Montrose-Ravenswood " />
+    <edge id="0" source="Addison-Ravenswood " target="Paulina " />
+    <edge id="0" source="Jarvis " target="Morse " />
+    <edge id="0" source="Jarvis " target="Howard " />
+    <edge id="0" source="Morse " target="Loyola " />
+    <edge id="0" source="UIC-Halsted " target="Clinton-Congress " />
+    <edge id="0" source="UIC-Halsted " target="Racine " />
+    <edge id="0" source="Clinton-Congress " target="LaSalle " />
+    <edge id="0" source="Jackson/State " target="Harrison " />
+    <edge id="0" source="Jackson/State " target="Monroe/State " />
+    <edge id="0" source="Harrison " target="Roosevelt/State " />
+    <edge id="0" source="Chicago/Franklin " target="Merchandise Mart " />
+    <edge id="0" source="Chicago/Franklin " target="Sedgwick " />
+    <edge id="0" source="Merchandise Mart " target="Tower 18 " />
+    <edge id="0" source="Clark/Lake " target="State/Lake " />
+    <edge id="0" source="Clark/Lake " target="Tower 18 " />
+    <edge id="0" source="Clark/Lake " target="Grand/Milwaukee " />
+    <edge id="0" source="Clark/Lake " target="Washington/Dearborn " />
+    <edge id="0" source="State/Lake " target="Washington/Wabash " />
+    <edge id="0" source="79th " target="69th " />
+    <edge id="0" source="79th " target="87th " />
+    <edge id="0" source="69th " target="63rd-Dan Ryan " />
+    <edge id="0" source="43rd " target="Indiana " />
+    <edge id="0" source="43rd " target="47th-South Elevated " />
+    <edge id="0" source="Indiana " target="35-Bronzeville-IIT " />
+    <edge id="0" source="Laramie " target="Cicero-Lake " />
+    <edge id="0" source="Laramie " target="Central-Lake " />
+    <edge id="0" source="Cicero-Lake " target="Pulaski-Lake " />
+    <edge id="0" source="Pulaski-Douglas " target="Central Park " />
+    <edge id="0" source="Pulaski-Douglas " target="Kostner " />
+    <edge id="0" source="Central Park " target="Kedzie-Douglas " />
+    <edge id="0" source="Kimball " target="Kedzie-Ravenswood " />
+    <edge id="0" source="Kedzie-Ravenswood " target="Francisco " />
+    <edge id="0" source="Cicero-Congress " target="Pulaski-Congress " />
+    <edge id="0" source="Cicero-Congress " target="Austin-Congress " />
+    <edge id="0" source="Ashland-Midway " target="Halsted-Midway " />
+    <edge id="0" source="Ashland-Midway " target="35th/Archer " />
+    <edge id="0" source="Halsted-Midway " target="17th Junction " />
+    <edge id="0" source="Bryn Mawr " target="Berwyn " />
+    <edge id="0" source="Bryn Mawr " target="Thorndale " />
+    <edge id="0" source="Berwyn " target="Argyle " />
+    <edge id="0" source="O'Hare Airport " target="Subway Portal A " />
+    <edge id="0" source="Subway Portal A " target="Rosemont " />
+    <edge id="0" source="Irving Park-O'Hare " target="Addison-O'Hare " />
+    <edge id="0" source="Irving Park-O'Hare " target="Montrose-O'Hare " />
+    <edge id="0" source="Addison-North Main " target="Clark Junction " />
+    <edge id="0" source="Addison-North Main " target="Sheridan " />
+    <edge id="0" source="Clark Junction " target="Southport " />
+    <edge id="0" source="Western-Midway " target="35th/Archer " />
+    <edge id="0" source="Western-Ravenswood " target="Damen-Ravenswood " />
+    <edge id="0" source="Western-Ravenswood " target="Rockwell " />
+    <edge id="0" source="Damen-Ravenswood " target="Montrose-Ravenswood " />
+    <edge id="0" source="Ashland-Lake " target="Morgan " />
+    <edge id="0" source="Ashland-Lake " target="Paulina Junction " />
+    <edge id="0" source="Morgan " target="Clinton-Lake " />
+    <edge id="0" source="Garfield-Dan Ryan " target="47th-Dan Ryan " />
+    <edge id="0" source="Garfield-Dan Ryan " target="63rd-Dan Ryan " />
+    <edge id="0" source="47th-Dan Ryan " target="Sox-35th-Dan Ryan " />
+    <edge id="0" source="Quincy/Wells " target="Washington/Wells " />
+    <edge id="0" source="Quincy/Wells " target="LaSalle/Van Buren " />
+    <edge id="0" source="Washington/Wells " target="Tower 18 " />
+    <edge id="0" source="Tower 18 " target="Clinton-Lake " />
+    <edge id="0" source="Grand/State " target="Lake/State " />
+    <edge id="0" source="Grand/State " target="Chicago/State " />
+    <edge id="0" source="Lake/State " target="Monroe/State " />
+    <edge id="0" source="Clark/Division " target="Chicago/State " />
+    <edge id="0" source="Racine " target="Loomis Junction " />
+    <edge id="0" source="Kedzie-Douglas " target="California-Douglas " />
+    <edge id="0" source="California-Douglas " target="Western-Douglas " />
+    <edge id="0" source="California-Lake " target="Paulina Junction " />
+    <edge id="0" source="California-Lake " target="Kedzie-Lake " />
+    <edge id="0" source="Paulina Junction " target="Polk " />
+    <edge id="0" source="Rockwell " target="Francisco " />
+    <edge id="0" source="18th " target="Polk " />
+    <edge id="0" source="18th " target="Damen " />
+    <edge id="0" source="Wilson " target="Sheridan " />
+    <edge id="0" source="Wilson " target="Lawrence " />
+    <edge id="0" source="Halsted/63rd " target="59th Junction " />
+    <edge id="0" source="Halsted/63rd " target="Ashland/63rd " />
+    <edge id="0" source="59th Junction " target="Garfield-South Elevated " />
+    <edge id="0" source="59th Junction " target="King Drive " />
+    <edge id="0" source="Library " target="LaSalle/Van Buren " />
+    <edge id="0" source="Library " target="Tower 12 " />
+    <edge id="0" source="Roosevelt/Wabash " target="Tower 12 " />
+    <edge id="0" source="Roosevelt/Wabash " target="17th Junction " />
+    <edge id="0" source="Tower 12 " target="Adams/Wabash " />
+    <edge id="0" source="Oak Park-Congress " target="Austin-Congress " />
+    <edge id="0" source="Oak Park-Congress " target="Harlem-Congress " />
+    <edge id="0" source="Harlem-Lake " target="Oak Park-Lake " />
+    <edge id="0" source="Oak Park-Lake " target="Ridgeland " />
+    <edge id="0" source="Harlem-O'Hare " target="Jefferson Park " />
+    <edge id="0" source="Harlem-O'Hare " target="Cumberland " />
+    <edge id="0" source="Jefferson Park " target="Montrose-O'Hare " />
+    <edge id="0" source="54/Cermak " target="Cicero-Douglas " />
+    <edge id="0" source="Cicero-Douglas " target="Kostner " />
+    <edge id="0" source="Illinois Medical District " target="Loomis Junction " />
+    <edge id="0" source="Western/Milwaukee " target="Damen/Milwaukee " />
+    <edge id="0" source="Western/Milwaukee " target="California/Milwaukee " />
+    <edge id="0" source="Cermak-Chinatown " target="Roosevelt/State " />
+    <edge id="0" source="Cermak-Chinatown " target="Sox-35th-Dan Ryan " />
+    <edge id="0" source="Paulina " target="Southport " />
+    <edge id="0" source="Diversey " target="Fullerton " />
+    <edge id="0" source="Fullerton " target="Armitage " />
+    <edge id="0" source="Thorndale " target="Granville " />
+    <edge id="0" source="Howard " target="South Blvd. " />
+    <edge id="0" source="Howard " target="Oakton-Skokie " />
+    <edge id="0" source="Jackson/Dearborn " target="LaSalle " />
+    <edge id="0" source="Jackson/Dearborn " target="Monroe/Dearborn " />
+    <edge id="0" source="Garfield-South Elevated " target="51st " />
+    <edge id="0" source="51st " target="47th-South Elevated " />
+    <edge id="0" source="Ridgeland " target="Austin-Lake " />
+    <edge id="0" source="Austin-Lake " target="Central-Lake " />
+    <edge id="0" source="Pulaski-Lake " target="Conservatory-Central Park " />
+    <edge id="0" source="Conservatory-Central Park " target="Kedzie-Lake " />
+    <edge id="0" source="Western-Douglas " target="Damen " />
+    <edge id="0" source="Main " target="South Blvd. " />
+    <edge id="0" source="Main " target="Dempster " />
+    <edge id="0" source="Linden " target="Central-Evanston " />
+    <edge id="0" source="Central-Evanston " target="Noyes " />
+    <edge id="0" source="Noyes " target="Foster " />
+    <edge id="0" source="Foster " target="Davis " />
+    <edge id="0" source="Lawrence " target="Argyle " />
+    <edge id="0" source="17th Junction " target="Cermak-McCormick Place " />
+    <edge id="0" source="Cottage Grove " target="King Drive " />
+    <edge id="0" source="Cermak-McCormick Place " target="35-Bronzeville-IIT " />
+    <edge id="0" source="Cumberland " target="Rosemont " />
+    <edge id="0" source="Harlem-Congress " target="Forest Park " />
+    <edge id="0" source="Dempster " target="Davis " />
+    <edge id="0" source="Loyola " target="Granville " />
+    <edge id="0" source="Monroe/Dearborn " target="Washington/Dearborn " />
+    <edge id="0" source="Dempster-Skokie " target="Oakton-Skokie " />
+    <edge id="0" source="Washington/Wabash " target="Adams/Wabash " />
+    <edge id="0" source="87th " target="95/Dan Ryan " />
+  </graph>
+</graphml>
